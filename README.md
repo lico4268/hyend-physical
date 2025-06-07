@@ -9,6 +9,4 @@
 - `ai-integration`: AI API 연동 (음성/이미지 등)
 
 ## 브랜치 전략
-- `main`: 배포용 안정 버전
-- `dev`: 개발 통합 브랜치
-- `feature/*`: 기능별 개발 브랜치
+자세한 내용은 [BRANCHING.md](./BRANCHING.md)를 참고하세요.
